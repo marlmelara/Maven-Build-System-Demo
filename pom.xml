@@ -64,7 +64,7 @@
 
     <!-- ================================================================== -->
     <!-- BUILD CONFIGURATION                                                 -->
-    <!-- Plugins hook into Maven's lifecycle phases to do work.              -->
+    <!-- Plugins hook into the Maven's lifecycle phases to do work.              -->
     <!-- ================================================================== -->
     <build>
         <!-- Include .txt resources from src/main/resources in the jar -->
