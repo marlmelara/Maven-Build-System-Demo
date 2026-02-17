@@ -7,6 +7,7 @@
 ![Build Status](https://github.com/marlmelara/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://github.com/marlmelara/Maven-Build-System-Demo/raw/gh-pages/.badges/jacoco.svg)
 ![Branches](https://github.com/marlmelara/Maven-Build-System-Demo/raw/gh-pages/.badges/branches.svg)
+[![CI](https://github.com/marlmelara/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)](https://github.com/marlmelara/Maven-Build-System-Demo/actions/workflows/ci.yml)
 
 
 Hi
